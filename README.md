@@ -19,3 +19,5 @@ A brief about the notebook:
 6-Optimization and Cross Validation
 
 7-Using SMOTE technique to balance the data.
+
+![This is an image](https://drive.google.com/file/d/1IrXqqgA3OG_1DStUhSfNgV-bC_l2V7Lf/view?usp=sharing)
