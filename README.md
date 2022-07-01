@@ -20,4 +20,4 @@ A brief about the notebook:
 
 7-Using SMOTE technique to balance the data.
 
-![](images/Screenshot (145).png)
+![](images/Screenshot%20(145).png)
