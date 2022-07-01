@@ -20,4 +20,3 @@ A brief about the notebook:
 
 7-Using SMOTE technique to balance the data.
 
-![Alt Text](https://drive.google.com/file/d/1IrXqqgA3OG_1DStUhSfNgV-bC_l2V7Lf/view?usp=sharing)
