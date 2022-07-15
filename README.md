@@ -1,4 +1,4 @@
-# Diabetes-Predection-MachineLearning
+# Diabetes-Prediction-MachineLearning
 My Machine Learning project for Google Development Student Club (GDSC).
 
 Diabetes Prediction using Classification Algorithms.
